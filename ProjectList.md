@@ -75,10 +75,10 @@ This is the Collection of the Python Script.
 ## Hackthon Project
 
 This is the Collection of the Hackthon Projects.
+- [KrisiConnect](https://github.com/santoshvandari/KrisiConnect): By Mechi Mavericks
 
 ## Cyber Security
 
-- [KrisiConnect](https://github.com/santoshvandari/KrisiConnect): By Mechi Mavericks
 
 ## Open Source Contributions
 
